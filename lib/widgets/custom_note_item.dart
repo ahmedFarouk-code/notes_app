@@ -9,7 +9,7 @@ class NoteIcon extends StatelessWidget {
     return Container(
       padding: EdgeInsets.only(top: 16, left: 24, bottom: 24),
       decoration: BoxDecoration(
-        color: Colors.yellow,
+        color: Colors.orangeAccent,
         borderRadius: BorderRadius.circular(16),
       ),
       child: Column(
